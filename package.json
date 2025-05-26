@@ -4,7 +4,8 @@
   "description": "## Objective Automate code deployment of a Node.js app using GitHub Actions and Docker.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js",
+  "test": "echo \"No tests\" && exit 0"
   },
   "author": "",
   "license": "ISC"
